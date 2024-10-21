@@ -5,7 +5,5 @@ Nama : Muhammad Iqbal Al Afgany
 NPM : 21081010330
 
 | NUM  | iTCLab Publication Articles | Writer|
-| --- | --------------------------------------- | ------ |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| --- | --------------------------------------- | ----------------- |
+| 01  | A Pooling Method Developed for Use in Convolutional Neural Networks  | (Tingting et al., 2024) |
